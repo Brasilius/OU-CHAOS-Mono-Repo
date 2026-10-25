@@ -50,7 +50,6 @@ technology.
 | **Institution** | University of Oklahoma — Norman, OK |
 | **Industry Partner** | [CHAOS Industries](https://www.chaosinc.com) — defense technology |
 | **Duration** | 2025 – 2026 academic year |
-| **Team** | _add team members here_ |
 
 ## 🗂 Repository Structure
 
