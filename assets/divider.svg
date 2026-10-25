@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="8" viewBox="0 0 800 8" role="img" aria-label="section divider">
+  <rect x="0" y="3" width="800" height="2" fill="#3a3a3c"/>
+  <rect x="0" y="3" width="800" height="2" fill="#841617" opacity="0.35"/>
+  <circle cy="4" r="3" fill="#ff6b5e">
+    <animate attributeName="cx" values="8;792;8" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="4" r="3" fill="#f5f5f5" opacity="0.9">
+    <animate attributeName="cx" values="8;792;8" dur="4s" begin="-2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.15;0.7" dur="4s" begin="-2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
