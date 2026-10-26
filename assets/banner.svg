@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="OU x CHAOS Industries Collaboration Capstone">
   <defs>
+    <clipPath id="roundedCorners"><rect width="1200" height="320" rx="24" ry="24"/></clipPath>
     <radialGradient id="bgGlow" cx="16%" cy="50%" r="55%">
       <stop offset="0%" stop-color="#841617" stop-opacity="0.28">
         <animate attributeName="stop-opacity" values="0.28;0.45;0.28" dur="5s" repeatCount="indefinite"/>
@@ -29,6 +30,7 @@
   </defs>
 
   <!-- background -->
+  <g clip-path="url(#roundedCorners)">
   <rect width="1200" height="320" fill="#0b0b0d"/>
   <rect width="1200" height="320" fill="url(#grid)"/>
   <rect width="1200" height="320" fill="url(#bgGlow)"/>
@@ -89,4 +91,5 @@
   <rect x="0" y="316" width="1200" height="4" fill="#841617">
     <animate attributeName="opacity" values="1;0.45;1" dur="3s" repeatCount="indefinite"/>
   </rect>
+  </g>
 </svg>
