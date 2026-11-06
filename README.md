@@ -83,7 +83,7 @@ cd OU-CHAOS-Mono-Repo
 <img src="assets/divider.svg" width="100%" />
 
 - [x] Stand up the monorepo
-- [ ] Define project scope with CHAOS mentors
+- [x] Define project scope with CHAOS mentors
 - [ ] First prototype milestone
 - [ ] Mid-year demo
 - [ ] Capstone showcase 🎓
